@@ -22,7 +22,7 @@ public class UserServiceApplication implements CommandLineRunner {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UserServiceApplication.class, args);
-		LOG.info("User Service Application Started");
+		LOG.info("User Service Adpplication Started");
 	}
 
 	public void run(String... args) throws Exception {
